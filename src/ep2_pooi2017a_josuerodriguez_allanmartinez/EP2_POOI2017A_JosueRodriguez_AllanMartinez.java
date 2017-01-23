@@ -19,7 +19,7 @@ public class EP2_POOI2017A_JosueRodriguez_AllanMartinez {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola rojo");
     }
     
 }
